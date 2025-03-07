@@ -1,4 +1,4 @@
-### README - Flip WISMO Gladly Automation
+# README - Flip WISMO Gladly Automation
 
 ## 1️⃣ Overview
 
