@@ -2,7 +2,7 @@
 
 
 ## Project Structure
-
+```
 src/
 ├── auth/
 │   └── login.js                # Handles login to Gladly
@@ -12,7 +12,7 @@ src/
 │   └── phoneNumbers.json       # List of phone numbers to search
 ├── searchPhoneNumberAndExtract.js  # Handles search and data extraction
 runWISMO.js                      # Main script
-
+```
 
 
 ## How to Run
