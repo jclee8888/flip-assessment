@@ -1,3 +1,5 @@
+### README - Flip WISMO Gladly Automation
+
 ## 1️⃣ Overview
 
 This project addresses Flip’s urgent need to retrieve **order details from Gladly** using only a **phone number**. Since Gladly does not offer a public API to directly fetch this data, the solution uses **web automation with Puppeteer** to replicate the steps a human agent would take:
