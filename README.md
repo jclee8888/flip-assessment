@@ -37,7 +37,7 @@ runWISMO.js                      # Main script
     ```
 5. Run the process:
     ```bash
-    npm run wismo
+    npm start
     ```
 
 ---
